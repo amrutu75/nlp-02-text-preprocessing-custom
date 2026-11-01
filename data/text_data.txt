@@ -3,3 +3,5 @@ Text preprocessing removes punctuation, converts text to lowercase, and splits t
 Some words appear very frequently in language and may be removed as stop words.
 Python provides many tools for working with text data.
 Web pages emails and social media posts are common sources of text data.
+Tokenization is an important step that breaks text into smaller units for analysis.
+Text analysis can be used to identify patterns, trends, and insights from large collections of documents.
